@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jira Scrum Boards</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <section>
+      <div id="toDo" class="container">
+        <!-- div.container -->
+        <h3>To Do</h3>
+        <button class="btn">Create Issue</button>
+        <input class="hide" />
+        <div class="cards"></div>
+      </div>
+
+      <div id="inProgress" class="container">
+        <!-- div.container -->
+        <h3>In Progress</h3>
+        <button>Create Issue</button>
+        <input class="hide" />
+        <div class="cards"></div>
+      </div>
+
+      <div id="done" class="container">
+        <!-- div.container -->
+        <h3>Done</h3>
+        <button>Create Issue</button>
+        <input class="hide" />
+        <div class="cards"></div>
+      </div>
+    </section>
+
+    <script src="dragging.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
