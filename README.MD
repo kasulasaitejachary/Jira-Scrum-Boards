@@ -1,8 +1,8 @@
-Jira-Scrum-Boards🚀
+#Jira-Scrum-Boards🚀
 
 Jira Scrum boards are a feature within the Jira software that is designed to support Scrum framework practices in agile project management. Scrum is an agile methodology that emphasizes iterative and incremental development, collaboration, and flexibility. Jira Scrum boards facilitate the implementation of Scrum principles by providing a visual representation of the work progress and enabling teams to manage their work in a transparent and collaborative manner.
 
-Here are some key functionalities and features of Jira Scrum boards:
+#Here are some key functionalities and features of Jira Scrum boards:
 
 1. Backlog Management: Scrum boards in Jira allow teams to maintain a prioritized backlog of user stories, features, or tasks. This backlog represents the work that needs to be done in the project.
 
